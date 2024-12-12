@@ -1,0 +1,9 @@
+
+}
+java:S1450"[Remove the "cancelButton" field and declare it as a local variable in the relevant methods.(½»¡ïÿÿÿÿÿ8‹÷¯Ô«2
+|
+java:S1450"ZRemove the "loginButton" field and declare it as a local variable in the relevant methods.(¢ÏÃöıÿÿÿÿ8ö¡ÒÔ«2
+
+java:S1450"]Remove the "registerButton" field and declare it as a local variable in the relevant methods.(¯¥“ıÿÿÿÿ8‹÷¯Ô«2
+N
+java:S1948",Make "controller" transient or serializable.(˜¢ıÿÿÿÿ8­Ü»Ô«2

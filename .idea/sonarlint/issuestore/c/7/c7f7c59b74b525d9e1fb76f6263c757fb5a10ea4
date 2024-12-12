@@ -1,0 +1,32 @@
+
+·
+java:S1192Ş"“Define a constant instead of duplicating this literal "Ğ£ Ğ²Ğ°Ñ Ğ½ĞµÑ‚ Ğ¿Ñ€Ğ°Ğ² Ğ´Ğ»Ñ Ğ²Ñ‹Ğ¿Ğ¾Ğ»Ğ½ĞµĞ½Ğ¸Ñ ÑÑ‚Ğ¾Ğ³Ğ¾ Ğ´ĞµĞ¹ÑÑ‚Ğ²Ğ¸Ñ." 4 times.(«èıÿÿÿÿ8Ã½Ûº2
+€
+java:S1192¸"]Define a constant instead of duplicating this literal "ĞŸÑ€ĞµĞ´ÑƒĞ¿Ñ€ĞµĞ¶Ğ´ĞµĞ½Ğ¸Ğµ" 3 times.(Êİèüüÿÿÿÿ8Ã½Ûº2
+t
+java:S1192î"QDefine a constant instead of duplicating this literal "application/json" 4 times.(Ô øÜÿÿÿÿÿ8Ã½Ûº2
+
+java:S1192Ş"^Define a constant instead of duplicating this literal "Ğ”Ğ¾ÑÑ‚ÑƒĞ¿ Ğ·Ğ°Ğ¿Ñ€ĞµÑ‰Ñ‘Ğ½" 4 times.(«èıÿÿÿÿ8Ã½Ûº2
+u
+java:S11929"XDefine a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ° Ğ²Ñ…Ğ¾Ğ´Ğ°" 3 times.(ñÑŒä8¢ºáÜº2
+k
+java:S1192e"NDefine a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ°" 24 times.(Éññô8£ºáÜº2
+n
+java:S1192ö"KDefine a constant instead of duplicating this literal "Ğ£ÑĞ¿ĞµÑ…" 5 times.(ÊÌÄ—úÿÿÿÿ8Ã½Ûº2
+k
+java:S1192H"NDefine a constant instead of duplicating this literal "Authorization" 9 times.(×é8£ºáÜº2
+p
+java:S1192î"MDefine a constant instead of duplicating this literal "Content-Type" 4 times.(Ô øÜÿÿÿÿÿ8Ã½Ûº2
+d
+java:S1192H"GDefine a constant instead of duplicating this literal "Basic " 9 times.(×é8£ºáÜº2
+o	java:S116"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úåÁÀ8¬Ã½Ûº2
+t	java:S116"SRename this field "AUTH_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Â³ûÿÿÿÿ8¬Ã½Ûº2
+~	java:S116 "]Rename this field "MAX_LOGIN_ATTEMPTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÜùúÿÿÿÿ8¬Ã½Ûº2
+>
+java:S1170"!Make this final field static too.(úåÁÀ8¬Ã½Ûº2
+C
+java:S1170"!Make this final field static too.(›Â³ûÿÿÿÿ8¬Ã½Ûº2
+C
+java:S1170 "!Make this final field static too.(ÒÜùúÿÿÿÿ8¬Ã½Ûº2
+I
+java:S1602¾",Remove useless curly braces around statement(°›ìU8ĞÃ½Ûº2

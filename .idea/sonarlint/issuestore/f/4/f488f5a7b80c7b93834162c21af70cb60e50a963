@@ -1,0 +1,9 @@
+
+c
+java:S1192O"FDefine a constant instead of duplicating this literal "ADMIN" 3 times.(ã™§â8ì“ÁÛº2
+}
+java:S1450"`Remove the "assignAdminButton" field and declare it as a local variable in the relevant methods.(îÃ¥®8õ“ÁÛº2
+‚
+java:S1450"`Remove the "removeAdminButton" field and declare it as a local variable in the relevant methods.(õ‡¦ıÿÿÿÿ8õ“ÁÛº2
+I
+java:S1948",Make "controller" transient or serializable.(‹¯ì8õ“ÁÛº2
